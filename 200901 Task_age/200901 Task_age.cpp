@@ -21,5 +21,4 @@ int main()
 	char something = _getch();
 	return 0;
 }
-
  
